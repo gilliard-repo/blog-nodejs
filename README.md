@@ -1,2 +1,14 @@
-# blog-nodejs
-This blog was built with Node.js and MongoDB.
+![image info](https://raw.githubusercontent.com/gilliard-repo/light-react/refs/heads/main/github-cover-project.png)
+
+# Welcome to my Blog built with Node.js and MongoDB!
+
+```
+{
+  "Description" : "This is a simple blog using Node.js and MongoDB with EJS for templating. Enjoy!",
+  
+  "Question" : "How could I see a live example?",
+  "Answer" : "a"
+}
+```
+
+## 😀 Thank You! 😀
