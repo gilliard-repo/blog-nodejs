@@ -1,4 +1,4 @@
-![image info](https://raw.githubusercontent.com/gilliard-repo/light-react/refs/heads/main/github-cover-project.png)
+![image info](https://raw.githubusercontent.com/gilliard-repo/blog-nodejs/refs/heads/main/cover.png)
 
 # Welcome to my Blog built with Node.js and MongoDB!
 
