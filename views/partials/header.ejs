@@ -1,0 +1,23 @@
+<header id = "header">
+    <a href = "/" id = "header__logo">NodeJs</a>
+
+    <nav id = "header__nav">
+        <ul>
+            <li>
+                <a href = "/" id = "<%= isActiveRoute('/', currentRoute) %>">Home</a>
+            </li>
+            <li>
+                <a href = "/about" id = "<%= isActiveRoute('/', currentRoute) %>">About</a>
+            </li>
+            <li>
+                <a href = "/contact" id = "<%= isActiveRoute('/', currentRoute) %>">Contact</a>
+            </li>
+        </ul>
+    </nav>
+
+    <div id = "header__button">
+        <button id = "searchBtn" aria-expanded = "false">
+            Search
+        </button>
+    </div>
+</header>

@@ -1,0 +1,45 @@
+function insertPostData () {
+    Post.insertMany([
+        {
+            title: "Building APIs with Node.js",
+            body: "Learn how to use Node.js to build RESTful APIS using frameworks like Express.js"
+        },
+        {
+            title: "Deployment of Node.js applications",
+            body: "Understand the different ways to deploy your Node.js applications."
+        },
+        {
+            title: "Authentication and Authorization in Node.js",
+            body: "Learn how to add authentication and authorization to your Node.js web application using Passport.js."
+        },
+        {
+            title: "Understand how to work with MongoDB and Mongoose",
+            body: "Inderstand how to work with MongoDB and Mongoose, and Object Data Modeling (ODM) library."
+        },
+        {
+            title: "Build real-time, event-driven applications in Node.js",
+            body: "Socket.io: Learn how to use Socket.io to build real-time, event-driven applications in node.js."
+        },
+        {
+            title: "Discover how to use Express.js",
+            body: "Discover how to use Express.js, a popular Node.js web framework, to build web applications."
+        },
+        {
+            title: "Asynchronous Programming with Node.js",
+            body: "Asyncchronous Programming with Node.js: Explore the asynchronous nature of Node.js."
+        },
+        {
+            title: "Learn the basics of Node.js and its architecture.",
+            body: "Learn the basics of Node.js and its architecture, how it works, and why it is popular among developers."
+        },
+        {
+            title: "Models Limiting Network Traffic",
+            body: "Learn how to limit network traffic."
+        },
+        {
+            title: "Learn Morgan - HTTP Request logger for Nodejs",
+            body: "Learn Morgan."
+        },
+    ])
+}
+insertPostData();

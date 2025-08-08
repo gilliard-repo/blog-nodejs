@@ -1,0 +1,38 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "Blog using Nodejs as backend stack",
+  "keywords": [
+    "nodejs",
+    "express"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http:"
+  },
+  "license": "MIT",
+  "author": "Gilliard Santos",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "connect-mongo": "^5.1.0",
+    "cookie-parser": "^1.4.7",
+    "dotenv": "^17.0.1",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "express-ejs-layouts": "^2.5.1",
+    "express-session": "^1.18.1",
+    "jsonwebtoken": "^9.0.2",
+    "method-override": "^3.0.0",
+    "mongoose": "^8.16.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
