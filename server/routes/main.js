@@ -114,4 +114,9 @@ router.get('/about', (req, res) => {
     });
 });
 
+// About
+router.get('/contact', (req, res) => {
+    res.render('contact');
+});
+
 module.exports = router;
