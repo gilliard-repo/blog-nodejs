@@ -7,7 +7,7 @@
   "Description" : "This is a simple blog using Node.js and MongoDB with EJS for templating. Enjoy!",
   
   "Question" : "How could I see a live example?",
-  "Answer" : "a"
+  "Live Preview" : "coming soon
 }
 ```
 
